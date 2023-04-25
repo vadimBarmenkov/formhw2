@@ -1,0 +1,29 @@
+form{
+    width: 50%;
+    margin: auto;
+}
+
+.div1{
+    text-align: center
+}
+
+.div2{
+    display: inline-block;
+    width: 30%;
+    margin-right: 15px;
+}
+
+.data{
+    text-align: center;
+}
+
+.data-label{
+    display: inline-block;
+    width: 30%;
+    margin-right: 15px;
+}
+
+.li-element{
+    display: inline-block;
+    margin-right: 10%;
+}
